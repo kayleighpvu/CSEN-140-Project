@@ -2,6 +2,10 @@
 
 Simple overview of use/purpose.
 
+## Authors
+
+Aster Li, Kayleigh Vu
+
 ## Description
 
 An in-depth paragraph about your project and overview of use.
@@ -32,11 +36,6 @@ Any advise for common problems or issues.
 ```
 command to run if program contains helper info
 ```
-
-## Authors
-
-Aster Li
-Kayleigh Vu
 
 ## Version History
 
